@@ -1,0 +1,4 @@
+#Wed Jun 07 19:17:07 CAT 2023
+base.0=C\:\\Users\\zaina\\Desktop\\Flutter_Apps\\Client_App_COMP1682\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
