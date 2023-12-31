@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 application
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:3:4-37:19
-MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-48:19
-MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-48:19
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:3:4-37:19
+MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-48:19
+MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-48:19
 MERGED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.android.recaptcha:recaptcha:18.0.1] C:\Users\zaina\.gradle\caches\transforms-3\a3188227eb7937895c1b82bd18536df4\transformed\jetified-recaptcha-18.0.1\AndroidManifest.xml:7:5-20
@@ -50,21 +50,21 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\za
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\zaina\.gradle\caches\transforms-3\36645dad4856a45a63618a9e4f104845\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
 manifest
-ADDED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
-MERGED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
-MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-50:12
-MERGED from [:fluttertoast] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:path_provider_android] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:webview_flutter_android] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+ADDED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-50:12
+MERGED from [:fluttertoast] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:webview_flutter_android] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.android.recaptcha:recaptcha:18.0.1] C:\Users\zaina\.gradle\caches\transforms-3\a3188227eb7937895c1b82bd18536df4\transformed\jetified-recaptcha-18.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\zaina\.gradle\caches\transforms-3\ed438543a8e9ffa856a2b095c92f0ea3\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
@@ -116,43 +116,43 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\zaina\.gradle\cache
 MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\zaina\.gradle\caches\transforms-3\d558a5d5cddc2473e9bd3b57fe862836\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\zaina\.gradle\caches\transforms-3\5c4a746fdb37aef664c423f745044a1a\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\zaina\.gradle\caches\transforms-3\a6362f1fb79a6245a27920bb99ff99c3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:1:1-8:12
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:1:1-8:12
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:1:1-8:12
 	package
-		ADDED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:2:5-42
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
-MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:fluttertoast] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:fluttertoast] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:webview_flutter_android] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:webview_flutter_android] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.android.recaptcha:recaptcha:18.0.1] C:\Users\zaina\.gradle\caches\transforms-3\a3188227eb7937895c1b82bd18536df4\transformed\jetified-recaptcha-18.0.1\AndroidManifest.xml:5:5-44
@@ -255,18 +255,18 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\zai
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\zaina\.gradle\caches\transforms-3\5c4a746fdb37aef664c423f745044a1a\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\zaina\.gradle\caches\transforms-3\a6362f1fb79a6245a27920bb99ff99c3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\zaina\.gradle\caches\transforms-3\a6362f1fb79a6245a27920bb99ff99c3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:7:5-66
+ADDED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:7:5-66
 MERGED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-firestore:24.4.5] C:\Users\zaina\.gradle\caches\transforms-3\d43b47d168b13e665dc2882906f823bc\transformed\jetified-firebase-firestore-24.4.5\AndroidManifest.xml:13:5-67
@@ -274,15 +274,15 @@ MERGED from [com.google.firebase:firebase-firestore:24.4.5] C:\Users\zaina\.grad
 MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\zaina\.gradle\caches\transforms-3\38e2ca4f20da1d304ef2d3d4c0d4c633\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\zaina\.gradle\caches\transforms-3\38e2ca4f20da1d304ef2d3d4c0d4c633\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:7:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 MERGED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:66:9-72:19
 MERGED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:66:9-72:19
 MERGED from [com.google.firebase:firebase-firestore:24.4.5] C:\Users\zaina\.gradle\caches\transforms-3\d43b47d168b13e665dc2882906f823bc\transformed\jetified-firebase-firestore-24.4.5\AndroidManifest.xml:16:9-22:19
@@ -298,99 +298,99 @@ MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\zaina\.gradle\
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\zaina\.gradle\caches\transforms-3\026de80ea9d0b63bfc94ec9a10c1d73c\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+		ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-127
+		ADDED from [:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-127
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+ADDED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+		ADDED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+		ADDED from [:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 queries
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
 intent#action:name:android.support.customtabs.action.CustomTabsService
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
 action#android.support.customtabs.action.CustomTabsService
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-90
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-90
 	android:name
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-87
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-87
 activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-20:47
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-20:47
 	android:exported
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
 	android:configChanges
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-137
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-137
 	android:theme
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-44
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-44
 	android:name
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-104
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-104
 activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-24:55
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-24:55
 	android:exported
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-37
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-37
 	android:theme
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-52
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-52
 	android:name
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-112
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-112
 activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-28:55
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-28:55
 	android:exported
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-37
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-37
 	android:theme
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-52
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-52
 	android:name
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-106
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-106
 activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33:55
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33:55
 	android:launchMode
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-48
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-48
 	android:exported
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-37
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-37
 	android:theme
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-52
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-52
 	android:name
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-126
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-126
 activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-38:55
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-38:55
 	android:launchMode
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-48
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-48
 	android:exported
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
 	android:theme
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-52
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-52
 	android:name
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-120
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-120
 receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-43:40
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-43:40
 	android:enabled
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-35
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-35
 	android:exported
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-37
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-37
 	android:name
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-111
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-111
 meta-data#io.flutter.embedded_views_preview
-ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:45:9-47:36
+ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:45:9-47:36
 	android:value
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-33
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-33
 	android:name
-		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-61
+		ADDED from [:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-61
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-firestore:24.4.5] C:\Users\zaina\.gradle\caches\transforms-3\d43b47d168b13e665dc2882906f823bc\transformed\jetified-firebase-firestore-24.4.5\AndroidManifest.xml:12:5-79

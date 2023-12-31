@@ -22,19 +22,19 @@ com.example.client_cp_final.app-jetified-play-services-basement-18.1.0-20 C:\Use
 com.example.client_cp_final.app-browser-1.4.0-21 C:\Users\zaina\.gradle\caches\transforms-3\c1463af6cb467bf02a2c891016443d37\transformed\browser-1.4.0\res
 com.example.client_cp_final.app-webkit-1.5.0-22 C:\Users\zaina\.gradle\caches\transforms-3\caa4f1f5339748d191206148a632dc54\transformed\webkit-1.5.0\res
 com.example.client_cp_final.app-jetified-window-java-1.0.0-beta04-23 C:\Users\zaina\.gradle\caches\transforms-3\ed438543a8e9ffa856a2b095c92f0ea3\transformed\jetified-window-java-1.0.0-beta04\res
-com.example.client_cp_final.app-debug-24 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\res
-com.example.client_cp_final.app-main-25 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\main\res
-com.example.client_cp_final.app-pngs-26 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\app\generated\res\pngs\debug
-com.example.client_cp_final.app-resValues-27 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\app\generated\res\resValues\debug
-com.example.client_cp_final.app-rs-28 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\app\generated\res\rs\debug
-com.example.client_cp_final.app-mergeDebugResources-29 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.example.client_cp_final.app-mergeDebugResources-30 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.example.client_cp_final.app-merged_res-31 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\app\intermediates\merged_res\debug
-com.example.client_cp_final.app-packaged_res-32 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\packaged_res\debug
-com.example.client_cp_final.app-packaged_res-33 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\packaged_res\debug
-com.example.client_cp_final.app-packaged_res-34 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\packaged_res\debug
-com.example.client_cp_final.app-packaged_res-35 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\packaged_res\debug
-com.example.client_cp_final.app-packaged_res-36 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\packaged_res\debug
-com.example.client_cp_final.app-packaged_res-37 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\fluttertoast\intermediates\packaged_res\debug
-com.example.client_cp_final.app-packaged_res-38 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\path_provider_android\intermediates\packaged_res\debug
-com.example.client_cp_final.app-packaged_res-39 C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\webview_flutter_android\intermediates\packaged_res\debug
+com.example.client_cp_final.app-debug-24 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\res
+com.example.client_cp_final.app-main-25 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\main\res
+com.example.client_cp_final.app-pngs-26 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\app\generated\res\pngs\debug
+com.example.client_cp_final.app-resValues-27 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\app\generated\res\resValues\debug
+com.example.client_cp_final.app-rs-28 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\app\generated\res\rs\debug
+com.example.client_cp_final.app-mergeDebugResources-29 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.client_cp_final.app-mergeDebugResources-30 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.client_cp_final.app-merged_res-31 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\app\intermediates\merged_res\debug
+com.example.client_cp_final.app-packaged_res-32 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.client_cp_final.app-packaged_res-33 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\packaged_res\debug
+com.example.client_cp_final.app-packaged_res-34 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\packaged_res\debug
+com.example.client_cp_final.app-packaged_res-35 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\packaged_res\debug
+com.example.client_cp_final.app-packaged_res-36 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\packaged_res\debug
+com.example.client_cp_final.app-packaged_res-37 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\fluttertoast\intermediates\packaged_res\debug
+com.example.client_cp_final.app-packaged_res-38 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\path_provider_android\intermediates\packaged_res\debug
+com.example.client_cp_final.app-packaged_res-39 C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\webview_flutter_android\intermediates\packaged_res\debug

@@ -469,24 +469,7 @@
             "outputFile": "com.example.client_cp_final.app-merged_res-31:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\zaina\\.gradle\\caches\\transforms-3\\a4e2a721ad5eb13725c986ed81cfc36f\\transformed\\appcompat-1.5.1\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "405,475,559,643,739,841,943,1037",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "470,554,638,734,836,938,1032,1121"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\zaina\\Desktop\\Flutter_Apps\\Client_App_COMP1682\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\zaina\\Desktop\\Job Finder Apps\\Client_App_COMP1682\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -502,6 +485,23 @@
                         "endLines": "5,8",
                         "endColumns": "12,12",
                         "endOffsets": "231,400"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zaina\\.gradle\\caches\\transforms-3\\a4e2a721ad5eb13725c986ed81cfc36f\\transformed\\appcompat-1.5.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "405,475,559,643,739,841,943,1037",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "470,554,638,734,836,938,1032,1121"
                     }
                 }
             ]
@@ -1933,25 +1933,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\zaina\\Desktop\\Flutter_Apps\\Client_App_COMP1682\\build\\flutter_inappwebview\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,11,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,102,153,210,259,306,353,426,502",
-                        "endLines": "2,3,4,5,6,7,10,13,21",
-                        "endColumns": "46,50,56,48,46,46,12,12,12",
-                        "endOffsets": "97,148,205,254,301,348,421,497,949"
-                    },
-                    "to": {
-                        "startLines": "319,320,321,322,323,347,355,1441,1781",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "20700,20747,20798,20855,20904,23650,24263,93334,119043",
-                        "endLines": "319,320,321,322,323,347,357,1443,1788",
-                        "endColumns": "46,50,56,48,46,46,12,12,12",
-                        "endOffsets": "20742,20793,20850,20899,20946,23692,24331,93405,119490"
-                    }
-                },
-                {
                     "source": "C:\\Users\\zaina\\.gradle\\caches\\transforms-3\\8fa0dfc2c3c5e7726186e6860ebed958\\transformed\\jetified-appcompat-resources-1.5.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -2064,6 +2045,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\zaina\\Desktop\\Job Finder Apps\\Client_App_COMP1682\\build\\flutter_inappwebview\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,153,210,259,306,353,426,502",
+                        "endLines": "2,3,4,5,6,7,10,13,21",
+                        "endColumns": "46,50,56,48,46,46,12,12,12",
+                        "endOffsets": "97,148,205,254,301,348,421,497,949"
+                    },
+                    "to": {
+                        "startLines": "319,320,321,322,323,347,355,1441,1781",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "20700,20747,20798,20855,20904,23650,24263,93334,119043",
+                        "endLines": "319,320,321,322,323,347,357,1443,1788",
+                        "endColumns": "46,50,56,48,46,46,12,12,12",
+                        "endOffsets": "20742,20793,20850,20899,20946,23692,24331,93405,119490"
+                    }
+                },
+                {
                     "source": "C:\\Users\\zaina\\.gradle\\caches\\transforms-3\\0b740741fbecdf88a83aa8b4db13a51c\\transformed\\jetified-activity-1.5.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -2115,7 +2115,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\zaina\\Desktop\\Flutter_Apps\\Client_App_COMP1682\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\zaina\\Desktop\\Job Finder Apps\\Client_App_COMP1682\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

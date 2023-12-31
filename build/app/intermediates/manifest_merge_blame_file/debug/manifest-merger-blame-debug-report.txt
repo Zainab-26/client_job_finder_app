@@ -13,16 +13,16 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\android\app\src\debug\AndroidManifest.xml:7:22-64
 16
 17    <queries>
-17-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
+17-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
 18        <intent>
-18-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
+18-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
 19            <action android:name="android.support.customtabs.action.CustomTabsService" />
-19-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-90
-19-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-87
+19-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-90
+19-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-87
 20        </intent>
 21    </queries>
 22
@@ -74,37 +74,37 @@
 65            android:value="AIzaSyC8QIP1SvMdkEpJZWQasunL62zv982it_c" />
 66
 67        <service
-67-->[:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+67-->[:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 68            android:name="com.google.firebase.components.ComponentDiscoveryService"
-68-->[:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+68-->[:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 69            android:directBootAware="true"
 69-->[com.google.firebase:firebase-common:20.3.2] C:\Users\zaina\.gradle\caches\transforms-3\026de80ea9d0b63bfc94ec9a10c1d73c\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
 70            android:exported="false" >
 70-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:68:13-37
 71            <meta-data
-71-->[:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+71-->[:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 72                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-72-->[:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+72-->[:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 73                android:value="com.google.firebase.components.ComponentRegistrar" />
-73-->[:firebase_auth] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+73-->[:firebase_auth] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 74            <meta-data
-74-->[:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+74-->[:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 75                android:name="com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar"
-75-->[:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-127
+75-->[:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-127
 76                android:value="com.google.firebase.components.ComponentRegistrar" />
-76-->[:firebase_database] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+76-->[:firebase_database] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 77            <meta-data
-77-->[:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+77-->[:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 78                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-78-->[:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+78-->[:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 79                android:value="com.google.firebase.components.ComponentRegistrar" />
-79-->[:cloud_firestore] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+79-->[:cloud_firestore] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 80            <meta-data
-80-->[:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+80-->[:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 81                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-81-->[:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+81-->[:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 82                android:value="com.google.firebase.components.ComponentRegistrar" />
-82-->[:firebase_core] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+82-->[:firebase_core] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 83            <meta-data
 83-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:69:13-71:85
 84                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -126,67 +126,67 @@
 92        </service>
 93
 94        <activity
-94-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-20:47
+94-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-20:47
 95            android:name="com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity"
-95-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-104
+95-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-104
 96            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
-96-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-137
+96-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-137
 97            android:exported="false"
-97-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+97-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
 98            android:theme="@style/AppTheme" />
-98-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-44
+98-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-44
 99        <activity
-99-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-24:55
+99-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-24:55
 100            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity"
-100-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-112
+100-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-112
 101            android:exported="false"
-101-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-37
+101-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-37
 102            android:theme="@style/ThemeTransparent" />
-102-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-52
+102-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-52
 103        <activity
-103-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-28:55
+103-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-28:55
 104            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity"
-104-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-106
+104-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-106
 105            android:exported="false"
-105-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-37
+105-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-37
 106            android:theme="@style/ThemeTransparent" />
-106-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-52
+106-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-52
 107        <activity
-107-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33:55
+107-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33:55
 108            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance"
-108-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-126
+108-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-126
 109            android:exported="false"
-109-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-37
+109-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-37
 110            android:launchMode="singleInstance"
-110-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-48
+110-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-48
 111            android:theme="@style/ThemeTransparent" />
-111-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-52
+111-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-52
 112        <activity
-112-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-38:55
+112-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-38:55
 113            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance"
-113-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-120
+113-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-120
 114            android:exported="false"
-114-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
+114-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
 115            android:launchMode="singleInstance"
-115-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-48
+115-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-48
 116            android:theme="@style/ThemeTransparent" />
-116-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-52
+116-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-52
 117
 118        <receiver
-118-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-43:40
+118-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-43:40
 119            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver"
-119-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-111
+119-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-111
 120            android:enabled="true"
-120-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-35
+120-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-35
 121            android:exported="false" />
-121-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-37
+121-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-37
 122
 123        <meta-data
-123-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:45:9-47:36
+123-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:45:9-47:36
 124            android:name="io.flutter.embedded_views_preview"
-124-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-61
+124-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-61
 125            android:value="true" />
-125-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Flutter_Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-33
+125-->[:flutter_inappwebview] C:\Users\zaina\Desktop\Job Finder Apps\Client_App_COMP1682\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-33
 126
 127        <activity
 127-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\zaina\.gradle\caches\transforms-3\4df50efd5003cc01ac50384eab73866d\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:29:9-46:20
